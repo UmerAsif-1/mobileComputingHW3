@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.HW3MC" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/yellow</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/snapchatlogo</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+        <item name="android:windowSplashScreenBehavior">icon_preferred</item>
+
+    </style>
+</resources>
